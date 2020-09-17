@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mrjoelkemp/mrjoelkemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Joel and I'm currently a Staff Software Engineer at Spotify (since 2016), based in NY.
 
-Here are some ideas to get you started:
+At Spotify, I've worked mostly on building big and ambitious monetization platforms:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building Spotify Ad Studio (a self-serve marketplace for audio ads) from $0 - tens of millions in revenue
+* Building a high-margin content promotion offering in Spotify for Artists from $0 to millions in revenue
+
+I believe in situational leadership, eating last, sponsoring others, and leading by example.
+
+#### Technical Interests
+
+* Currently: Elixir and the BEAM
+* Previously: all things JavaScript
+
+My resumé can be found [on github](https://github.com/mrjoelkemp/resume#joel-e-kemp).
