@@ -14,4 +14,6 @@ I believe in situational leadership, eating last, sponsoring others, and leading
 * Currently: Elixir and the BEAM
 * Previously: all things JavaScript
 
+I used to do a lot of open source before having my beautiful children. I hack when I can.
+
 My resumé can be found [on github](https://github.com/mrjoelkemp/resume#joel-e-kemp).
